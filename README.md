@@ -21,5 +21,5 @@
    ```
 ## Запустить контейнер
    ```bash
-   docker run -d -p 8888:80 nginx-hw
+   docker run -d -p 8888:80 nginx_test
    ```
